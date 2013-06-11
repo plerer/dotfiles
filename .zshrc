@@ -55,7 +55,7 @@ unsetopt correct_all
 # Pathdirs: <http://stackoverflow.com/a/9352979>; and another:
 # <http://unix.stackexchange.com/a/31235>.
 path=
-path+=/home/peter/bin
+path+=/home/Dave/bin
 path+=/usr/lib64/qt4/bin/
 path+=/usr/local/apache2/bin
 path+=/usr/local/apr/bin
@@ -69,8 +69,8 @@ path+=/usr/local/neo4j/bin
 path+=/usr/local/pgsql/bin
 path+=/usr/local/ssl/bin
 path+=/usr/libexec/surfraw
-path+=/home/peter/.config/surfraw/elvi
-path+=/home/peter/src/stumpwm/contrib
+path+=/home/Dave/.config/surfraw/elvi
+path+=/home/Dave/src/stumpwm/contrib
 path+=/usr/local/sbin
 path+=/usr/sbin
 path+=/sbin
